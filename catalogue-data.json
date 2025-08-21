@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "brand": "Apple",
+      "model": "iPhone 15 Pro",
+      "price": 999,
+      "colors": ["Space Black", "Silver", "Gold", "Deep Purple"],
+      "storage": [128, 256, 512],
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693009279096",
+      "rating": 4.8,
+      "description": "The iPhone 15 Pro features a titanium design, A17 Pro chip, and advanced camera system."
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "model": "Galaxy S23 Ultra",
+      "price": 1199,
+      "colors": ["Phantom Black", "Green", "Lavender", "Cream"],
+      "storage": [256, 512, 1024],
+      "image": "https://i.postimg.cc/4xQKgPKj/download.jpg",
+      "rating": 4.7,
+      "description": "With built-in S Pen, 200MP camera and Snapdragon 8 Gen 2 processor."
+    },
+    {
+      "id": 3,
+      "brand": "Google",
+      "model": "Pixel 8 Pro",
+      "price": 899,
+      "colors": ["Obsidian", "Porcelain", "Bay"],
+      "storage": [128, 256, 512],
+      "image": "https://i.postimg.cc/HWSnBjG1/Google-Pixel-8-Pro-Unlocked-Android-Smartphone-with-Telephoto-Lens-and-Super-Actua-Display-24-Ho.jpg",
+      "rating": 4.6,
+      "description": "Google's flagship with Tensor G3 chip and best-in-class computational photography."
+    },
+    {
+      "id": 4,
+      "brand": "OnePlus",
+      "model": "11 5G",
+      "price": 699,
+      "colors": ["Titan Black", "Eternal Green"],
+      "storage": [128, 256],
+      "image": "https://i.postimg.cc/Zq9Xt7nL/One-Plus-11-5-G-8-Go-de-RAM-128-Go-de-Stockage.jpg",
+      "rating": 4.5,
+      "description": "Hasselblad camera, Snapdragon 8 Gen 2, and 100W fast charging."
+    },
+    {
+      "id": 5,
+      "brand": "Xiaomi",
+      "model": "13 Pro",
+      "price": 799,
+      "colors": ["Ceramic Black", "Ceramic White", "Sky Blue"],
+      "storage": [256, 512],
+      "image": "https://i.postimg.cc/ZqrFdpMS/Xiaomi-13-5-G-Vert-256-Go-Xiaomi.jpg",
+      "rating": 4.4,
+      "description": "Leica co-engineered cameras with 1-inch sensor and Snapdragon 8 Gen 2."
+    },
+    {
+      "id": 6,
+      "brand": "Motorola",
+      "model": "Edge 40 Pro",
+      "price": 599,
+      "colors": ["Interstellar Black", "Blue"],
+      "storage": [256, 512],
+      "image": "https://i.postimg.cc/2y4VH7nk/Motorola-Edge-40-Pro.jpg",
+      "rating": 4.2,
+      "description": "165Hz display, 125W fast charging, and Snapdragon 8 Gen 2."
+    },
+    {
+      "id": 7,
+      "brand": "Nothing",
+      "model": "Phone (2)",
+      "price": 599,
+      "colors": ["White", "Dark Gray"],
+      "storage": [128, 256, 512],
+      "image": "https://i.postimg.cc/WbYPBJST/Phone-2-A-5-G-Dual-SIM-Black-12-GB-RAM-256-GB-Middle-East-Version.jpg",
+      "rating": 4.3,
+      "description": "Unique glyph interface, Snapdragon 8+ Gen 1, and clean Nothing OS."
+    },
+    {
+      "id": 8,
+      "brand": "Asus",
+      "model": "ROG Phone 7",
+      "price": 999,
+      "colors": ["Phantom Black", "Storm White"],
+      "storage": [256, 512],
+      "image": "https://i.postimg.cc/zvfc70sW/ASUS-ROG-Phone-7-Ultimate-512-GB-16-GB-RAM-Aero-Active-Cooler-7-GSM-Only-No-CDMA-not-Compat.jpg",
+      "rating": 4.5,
+      "description": "Gaming phone with 165Hz AMOLED, Snapdragon 8 Gen 2, and AirTrigger controls."
+    }
+  ]
+}
