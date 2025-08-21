@@ -1,5 +1,5 @@
 {
-  "name": "catalogue-datajson",
+  "name": "catalogue-data.json",
   "version": "1.0.0",
   "scripts": {
     "build": "echo 'Building static files'"
